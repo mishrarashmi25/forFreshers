@@ -1,5 +1,5 @@
 <h1>Hello Freshers!</h1>
-I know you're here for the free T-shirt, but that's fine....<br>
+I know you're here for the free T-shirt, but that's fine.....<br>
 <hr>
 Yes sir, we are here for the free t-shirt
 I think this page needs more memes.
